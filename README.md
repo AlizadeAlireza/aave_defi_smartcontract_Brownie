@@ -22,7 +22,7 @@ address provider will give us the address of the lending pool for our market
 erc20 token have an approved function that make sure that  whenever we send a 
 token to somebody or whenever a token calls a function that uses our tokens we actually have given them premission to do so.
 
-the maximum amount that you can borrow will always be lees than
+the maximum amount that you can borrow will always be less than
 you collateral.
 Ethereum loan to value is 80% and if we have more than 82.5% borrowed 
 will actually get liquidated.
